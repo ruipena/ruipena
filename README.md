@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ruipena
+- 👀 I’m interested in developing my data science and analytics skills
+- 🌱 I’m currently learning python and R
+- 💞️ I’m looking to collaborate on ML/AI projects that will allow me to develop myself
+- 📫 You can reach me at ruipena94@gmail.com
